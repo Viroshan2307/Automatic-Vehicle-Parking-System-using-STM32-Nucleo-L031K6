@@ -349,4 +349,4 @@ The status of each parking slot, number of available spaces, parking condition, 
 
 ## Result
 
-Thus, the **Automatic Vehicle Parking System using STM32 Nucleo-L031K6** was designed and implemented successfully. The system detected the simulated occupancy of parking slots, calculated the number of available spaces, indicated the **Parking Full** condition using the onboard LED, and displayed the parking status on the **Wokwi Serial Monitor**.
+Thus, the **Automatic Vehicle Parking System using STM32 Nucleo-L031K6** was designed and implemented successfully. The system detected the simulated occupancy of parking slots, calculated the number of available spaces, indicated the **Parking Full** condition using the onboard LED, and displayed the parking status on the **Wokwi Serial Monitor**..
